@@ -1,4 +1,4 @@
-# Encontre o par da Soma
+# Encontre o par da soma
 Este desafio foi pedido recentemente em entrevistas para Devs.
 
 ## Na linguagem que desejar
