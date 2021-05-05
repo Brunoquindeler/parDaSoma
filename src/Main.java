@@ -3,8 +3,8 @@ public class Main {
         int[] numArray = {7, 32, 14, 2, 11, 2};
         int x = 25;
 
-        parDaSoma pds = new parDaSoma();
+        ParDaSoma pds = new ParDaSoma();
 
-        System.out.println(pds.ParDaSoma(numArray, x));
+        System.out.println(pds.getResult(numArray, x));
     }
 }

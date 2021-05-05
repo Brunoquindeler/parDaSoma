@@ -38,10 +38,14 @@ out/
 !.vscode/extensions.json
 *.code-workspace
 
-.vscode
-.classpath
-.project
-.settings
+*.vscode
+*.classpath
+*.project
+*.settings
 
 # Local History for Visual Studio Code
 .history/
+
+# UML Extensions VSCode
+*.drawio
+*.uxf

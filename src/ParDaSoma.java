@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class parDaSoma {
-    public List ParDaSoma(int[] numArray, int x) {
+public class ParDaSoma {
+    public List getResult(int[] numArray, int x) {
         List<Integer> res = new ArrayList<>();
         boolean ctrl = false;
 
